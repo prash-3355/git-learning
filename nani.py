@@ -1,1 +1,1 @@
-print("this is merge conflicts")
+print("this is merge and conflicts session")
