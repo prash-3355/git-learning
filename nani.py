@@ -1,1 +1,3 @@
-print("this is merge and conflicts session")
+
+print("this is after merge")
+
